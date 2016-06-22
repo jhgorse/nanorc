@@ -1,3 +1,8 @@
+set tabsize 4
+#include ~/.nano/syntax/ALL.nanorc
+#include ~/.nano/syntax/shell.nanorc
+#include ~/.nano/syntax/csh.nanorc
+include "~/.nano/csh.nanorc"
 include "~/.nano/apacheconf.nanorc"
 include "~/.nano/arduino.nanorc"
 include "~/.nano/asciidoc.nanorc"
